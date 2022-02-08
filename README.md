@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-This account only for #100DaysOfCode challenge
-
 <!--
 **krambl4ps/krambl4ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
