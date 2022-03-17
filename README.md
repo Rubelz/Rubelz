@@ -8,7 +8,7 @@
 
 
 
-### <div align = "center"> About Me </div>
+### 👨‍💻 About Me
 
 
 - 🔭 I’m currently working on something 🤷‍♂️
@@ -17,8 +17,7 @@
 
 ---
 
-### <div align = "center"> 🛠️ Languages and Tools 🛠️ </div>
-
+### 🛠️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
@@ -37,11 +36,14 @@
 
 ---
 
-### <div align = "center"> 🔥 My Stats 🔥 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubelz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🔥 My Stats
 
 ![](https://komarev.com/ghpvc/?username=Rubelz&color=2C75FF)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubelz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubelz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
