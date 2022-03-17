@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on something 🤷‍♂️
 - 🌱 I’m currently learning android development
-- ⚡ Fun fact: A single strand of Spaghetti is called a “Spaghetto”.
+- ⚡ Fun fact: https://api.fungenerators.com/fact/random
