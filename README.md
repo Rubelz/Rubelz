@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on something 🤷‍♂️
 - 🌱 I’m currently learning android development
 - ⚡ Love to learn something new
-
+ 
 ---
 
 ### 🛠️ Languages and Tools
