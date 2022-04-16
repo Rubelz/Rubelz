@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-
+- ⌨ I'm a mobile developer
 - 🔭 I’m currently working on <a href ="https://github.com/Rubelz/Heeworka">Heeworka app </a>
 - 🌱 I’m currently learning android development
 - ⚡ Love to learn something new
