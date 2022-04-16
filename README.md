@@ -40,8 +40,6 @@
 
 ### 🔥 My Stats
 
-![](https://komarev.com/ghpvc/?username=Rubelz&color=2C75FF)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubelz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubelz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
