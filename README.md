@@ -2,17 +2,6 @@
 ### <h2> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
 
-
-### 👨‍💻 About Me
-
-- ⌨ I'm a mobile developer
-- 🔭 I’m currently working on <a href ="https://github.com/Rubelz/Heeworka">Heeworka app </a>
-- 🌱 I’m currently learning android development
-- ⚡ Love to learn something new
- 
----
-
-
 ### 🛠️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="35"/>&nbsp;
